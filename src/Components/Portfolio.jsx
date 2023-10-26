@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.avif";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with watch, phone, mouse, and laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "LSPU Santa Cruz Dental Clinic Management System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "It provides an efficient and user-friendly platform for managing patient records, scheduling appointments, and facilitating the day-to-day operations of the university dental clinic under the supervision of Dr. Reymond N. Coria, University Dentist.",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Vector Equations Web Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This web-based tool allows users to effortlessly calculate and visualize the parametric, symmetric, and vector equations of 3D lines for improved understanding and application in various mathematical and geometric scenarios.",
+    url: "",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/mariaxclarisse/JS-Portfolio-Site",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Barangay Management Information System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This system serves as an effective platform for managing and organizing essential information and enhancing the overall governance processes within a barangay.",
+    url: "",
   },
 ];
 
